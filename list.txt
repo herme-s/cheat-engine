@@ -1,0 +1,18 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE42-5270
+
+ Directory of C:\Users\HOPE OMOLUABI\cheat-engine
+
+06/07/2019  11:55 PM    <DIR>          .
+06/07/2019  11:55 PM    <DIR>          ..
+06/07/2019  11:43 PM                59 .gitignore
+06/07/2019  11:43 PM    <DIR>          Cheat Engine
+06/07/2019  11:43 PM    <DIR>          DBKKernel
+06/07/2019  11:43 PM    <DIR>          dbvm
+06/07/2019  11:43 PM    <DIR>          DBVM UEFI
+06/07/2019  11:55 PM                 0 list.txt
+06/07/2019  11:43 PM    <DIR>          lua
+06/07/2019  11:43 PM            22,721 molumen-download-button-1-800px.png
+06/07/2019  11:43 PM             1,686 README.md
+               4 File(s)         24,466 bytes
+               7 Dir(s)  31,191,478,272 bytes free
